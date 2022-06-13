@@ -1,4 +1,5 @@
 #nom {
+    font-size: 100px;
     position: relative;
     padding: 200px;
     text-align: center;
@@ -28,8 +29,15 @@ h2 {
     padding: 30px;
 }
 
-body { padding-bottom: 70px; }
+body { 
+    padding-bottom: 70px; 
+    background-color: #28282B;
+}
 
-#test {
+p, h2, h1{
+	color: White;
+}
+
+#foot {
     text-align: center;
 }
