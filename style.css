@@ -1,0 +1,35 @@
+#nom {
+    position: relative;
+    padding: 200px;
+    text-align: center;
+    background-image: url('');
+}
+
+#education {
+    text-align: center;
+    padding: 10px;
+}
+
+#infoEduc {
+    text-align: center;
+    padding: 10px;
+}
+
+#projects {
+    padding: 200px;
+    text-align: center;
+}
+
+h2 {
+    padding: 20px;
+}
+
+.container {
+    padding: 30px;
+}
+
+body { padding-bottom: 70px; }
+
+#test {
+    text-align: center;
+}
